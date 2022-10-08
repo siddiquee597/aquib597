@@ -5,7 +5,7 @@ covid19 = COVID19Py.COVID19()
 location = covid19.getLocationByCountryCode("IN")
 
 print(location)
-
+#THIS FILE IS TO EXTRACT THE REAL TIME DATA
 
 #output:-
 
